@@ -1,0 +1,11 @@
+
+Web Server Log Report
+===========================
+Total number of requests: 6
+Number of unique IP: 4
+
+Number of requests by methods:
+1 POST
+5 GET
+
+Most popular URL: 3 
